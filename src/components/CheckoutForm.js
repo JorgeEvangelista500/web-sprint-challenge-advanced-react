@@ -1,13 +1,14 @@
 import React, { useState } from "react";
 import useForm from "../hooks/useForm";
-const initialValue = {
-  firstName: "",
-  lastName: "",
-  address: "",
-  city: "",
-  state: "",
-  zip: "",
-};
+
+// const initialValue = {
+//   firstName: "",
+//   lastName: "",
+//   address: "",
+//   city: "",
+//   state: "",
+//   zip: "",
+// };
 
 // This form should be handled by a "useForm" custom hook
 // Build out the logic needed for a form custom hook (see the useForm.js file)
